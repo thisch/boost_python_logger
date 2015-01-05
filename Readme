@@ -1,0 +1,5 @@
+Standalone version of the logger from the espressopp project. 
+
+
+python setup.py build_ext --inplace
+python test.py
